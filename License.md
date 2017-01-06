@@ -1,0 +1,1 @@
+This is a test License File to adding to my Git repository
