@@ -6,3 +6,4 @@ one for very bad branch
 another bad one, attempting to create conflict
 I hope this isn't another issue
 another bad one, attempting to create conflict
+test
